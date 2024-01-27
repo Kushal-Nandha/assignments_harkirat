@@ -1,5 +1,5 @@
 // String handbook
-
+// hi my name is kushal nandha
 // String: length, indexOf(), lastIndexOf(), slice(), substring(), replace(),
 // split(), trim(), toUpperCase(), toLowerCase(), etc.
 
